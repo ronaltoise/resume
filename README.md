@@ -1,3 +1,3 @@
 ---
-permalink: /Best CV.pdf
+permalink: /CV.pdf
 ---
