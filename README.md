@@ -1,3 +1,3 @@
 ---
-permalink:/CV.pdf
+permalink: /CV.pdf
 ---
